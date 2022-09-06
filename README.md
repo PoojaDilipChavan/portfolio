@@ -3,7 +3,7 @@
 ## About Me
 
 Hello All , 
-Welcome to Pooja's public page ! 
+Welcome to Pooja Chavan's public page ! 
 
 I am a graduate student at Carnegie Mellon University pursuing Master of Information System Management with coursework focused on data analytics. 
 
