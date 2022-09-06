@@ -3,9 +3,9 @@
 ## About Me
 
 Hello All , 
-Welcome to Pooja's public page ! :slightly_smiling_face:
+Welcome to Pooja's public page ! 
 
-I am a graduate student :woman_student: at Carnegie Mellon University pursuing Master of Information System Management with coursework focused on data analytics. 
+I am a graduate student at Carnegie Mellon University pursuing Master of Information System Management with coursework focused on data analytics. 
 
 My work in data and analytics team for oil & gas industry has allowed me to witness how shifting gears to digital has drastically changed the way we handle business. Technology can bring power to any job, from managing logistics efficiently to raising remedy tickets to the support team. 
 
@@ -19,9 +19,6 @@ I am committed to bringing enlightening business conversations which give users 
 Having worked as a Business Intelligence developer earlier, I created many visulization reports. I understand the importance of easy to navigate, informative and aestincally pleasing reports. I hope to learn color theroy , best UI practices and creating user friendly reports.
 
 In future , I see myself working in data analysis working backwords with customers and building holistic business solutions.
-
-<img src="https://github.com/PoojaDilipChavan/portfolio/blob/main/PoojaChavan_Photo.jpeg" width="350" height="400"> 
-
 
 ## Portfolio 
 
