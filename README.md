@@ -1,4 +1,4 @@
-# Portfolio of Pooja Chavan
+# portfolio
 
 ## About Me
 
