@@ -26,6 +26,12 @@ In future , I see myself working in data analysis working backwords with custome
 
 #### Assignment: Visualizing government debt
 
+The below bar chart shows general goverment debts as the % of total GDP for year 2021. As seen, Japan has the highest value (highlighted).
+
 <iframe src="https://data.oecd.org/chart/6Ogl" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Ogl" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</a></iframe>
+
+Here, we are analysing the general goverment debts as the % of total GDP over period. This data is publicly available at Organization for Economic Co-operation and Development (OECD) website. In consistency with bar chart above , Japan shows consistent growth in this debt value over period from 1995 till 2021.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11154522"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 #### Final Project 
