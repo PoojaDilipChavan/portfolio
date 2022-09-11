@@ -36,5 +36,7 @@ Here, we are analysing the general goverment debts as the % of total GDP over pe
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11154522"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-##### KPI Cards : Year 1995-2021 Debt-to-GDP Ratio
+##### KPI Cards : Year 2021 Debt-to-GDP Ratio
+
+<div class="flourish-embed flourish-cards" data-src="visualisation/11154734"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 #### Final Project 
