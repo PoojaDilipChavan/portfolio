@@ -21,7 +21,7 @@ The inclusive text is not self-explanatory, takes time to understand what it is.
 Q.Who do you think is the intended audience for this?\
 Police departments, government, or anyone who wants to know how safe states are\
 Q.Is there anything you would change or do differently?\
-It looks fine, legends position can be changed to the right to follow the eye movement.\
+It looks fine, legends position can be changed to the right to follow the eye movement.
 
 ##### User 2: Student 25 years old (aspiring data analyst) 
 Q.Can you tell me what you think this is?\
@@ -33,7 +33,7 @@ Adding a continuous gradient scale than a categorization is better.\
 Q.Who do you think is the intended audience for this?\
 The police department for stricter patrolling, government body who is intending to bring about a change in the gun laws or using it as a reference to pass a gun law, an immigrant who is moving to the USA.\
 Q.Is there anything you would change or do differently?\
-I would want an explanation of the graph in 1-2 lines which is a clear explanation of what the graph wants to convey. I would want an abstract/summary which would be the key takeaway of the graphic.\
+I would want an explanation of the graph in 1-2 lines which is a clear explanation of what the graph wants to convey. I would want an abstract/summary which would be the key takeaway of the graphic.
 
 
 ### Building the final solution
