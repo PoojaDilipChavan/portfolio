@@ -13,27 +13,27 @@ The wireframe of this solution was tested with 2 users. The process I followed f
 
 ##### User 1 : Student 22 years old
 Q.Can you tell me what you think this is?
-- > It’s a heatmap.
+It’s a heatmap.
 Q.Can you describe to me what this is telling you?
-- > The darker the color gets, the more deaths happen per 100k.
--Q.Is there anything you find surprising or confusing?
-- > The inclusive text is not self-explanatory, takes time to understand what it is.
+The darker the color gets, the more deaths happen per 100k.
+Q.Is there anything you find surprising or confusing?
+The inclusive text is not self-explanatory, takes time to understand what it is.
 Q.Who do you think is the intended audience for this?
-- > Police departments, government, or anyone who wants to know how safe states are
--Q.Is there anything you would change or do differently?
-- > It looks fine, legends position can be changed to the right to follow the eye movement.
+Police departments, government, or anyone who wants to know how safe states are
+Q.Is there anything you would change or do differently?
+It looks fine, legends position can be changed to the right to follow the eye movement.
 
 ##### User 2: Student 25 years old (aspiring data analyst) 
 Q.Can you tell me what you think this is?
-- > It is a geographical map of the US denoting the death rate per state in 2021 per 100k people. 
+It is a geographical map of the US denoting the death rate per state in 2021 per 100k people. 
 Q.Can you describe to me what this is telling you?
-- > Some states have higher and lower numbers depending on the gradient of the color. The red states have the highest risk of people getting shot by a gun as compared to yellow states.
+Some states have higher and lower numbers depending on the gradient of the color. The red states have the highest risk of people getting shot by a gun as compared to yellow states.
 Q.Is there anything you find surprising or confusing?
-- > Adding a continuous gradient scale than a categorization is better.
+Adding a continuous gradient scale than a categorization is better.
 Q.Who do you think is the intended audience for this?
-- >The police department for stricter patrolling, government body who is intending to bring about a change in the gun laws or using it as a reference to pass a gun law, an immigrant who is moving to the USA.
+The police department for stricter patrolling, government body who is intending to bring about a change in the gun laws or using it as a reference to pass a gun law, an immigrant who is moving to the USA.
 Q.Is there anything you would change or do differently?
-- > I would want an explanation of the graph in 1-2 lines which is a clear explanation of what the graph wants to convey. I would want an abstract/summary which would be the key takeaway of the graphic.
+I would want an explanation of the graph in 1-2 lines which is a clear explanation of what the graph wants to convey. I would want an abstract/summary which would be the key takeaway of the graphic.
 
 
 ### Building the final solution
