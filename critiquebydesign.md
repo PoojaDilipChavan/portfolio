@@ -9,7 +9,7 @@ The source link : https://giffords.org/lawcenter/resources/scorecard/
 
 The source visulization looks like below -
 
-![Book logo](/portfolio/assets/gunmap.JPG)
+![Book logo](portfolio/assets/gunmap.JPG)
 
 ### Critique Related to the visualization
 
