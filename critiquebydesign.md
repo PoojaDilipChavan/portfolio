@@ -9,7 +9,7 @@ The source link : https://giffords.org/lawcenter/resources/scorecard/
 
 The source visulization looks like below -
 
-![Book logo](portfolio/assets/gunmap.JPG)
+![image1](portfolio/assets/gunmap.JPG)
 
 ### Critique Related to the visualization
 
@@ -35,7 +35,7 @@ The things I would do differently for this visualization include –
 
 I developed the wireframe for the solution using balsamiq wirframe tool. I used different components of the tool here like image, shapes, textbox and subtitles to craete the wireframe. 
 
-![logo](portfolio/assets/heatmap.JPG)
+![image2](portfolio/assets/heatmap.JPG)
 
 
 
