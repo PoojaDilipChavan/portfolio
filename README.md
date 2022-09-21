@@ -44,4 +44,8 @@ The color pallet I used here is like the blue color available on the Organizatio
 
 
 <div class="flourish-embed flourish-cards" data-src="visualisation/11154734"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+#### Critque by Design
+
+critiquebydesign.md
+
 #### Final Project 
