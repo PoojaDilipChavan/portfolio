@@ -33,6 +33,12 @@ The things I would do differently for this visualization include –
 
 ### Wireframe of the Solution
 
+I developed the wireframe for the solution using balsamiq wirframe tool. I used different components of the tool here like image, shapes, textbox and subtitles to craete the wireframe. 
+
+![logo](portfolio/assets/heatmap.JPG)
+
+
+
 ### Testing of the solution
 The wireframe of this solution was tested with 2 users. The process I followed for this, involved showing them the visualization without guiding them and then asking the following questions.
 
