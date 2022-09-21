@@ -11,8 +11,6 @@ The source visulization looks like below -
 
 <img src="/portfolio/assets/gunmap.JPG">
 
-![image1](/portfolio/assets/gunmap.JPG)
-
 ### Critique Related to the visualization
 
 This graph shows the gun death rate per state in the year 2021.
