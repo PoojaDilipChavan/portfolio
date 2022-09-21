@@ -2,6 +2,8 @@
 
 # Critique by Design
 
+#### go to portfolio - https://poojadilipchavan.github.io/portfolio/
+
 ### Source Data Visualization
 
 I chose the visulization representing the gun death rate in US according to state wise breakdown.
