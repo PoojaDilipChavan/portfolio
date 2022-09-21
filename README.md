@@ -47,7 +47,7 @@ The color pallet I used here is like the blue color available on the Organizatio
 #### Assignment 3 & 4 - Critque by Design
 
 Please Visit following link -
-[GitHub Pages](https://poojadilipchavan.github.io/portfolio/critiquebydesign)
+[CritiquebyDesign](https://poojadilipchavan.github.io/portfolio/critiquebydesign)
 
 
 #### Final Project 
