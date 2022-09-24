@@ -1,5 +1,7 @@
 # Part I - Final Project
 
+#### go to portfolio - https://poojadilipchavan.github.io/portfolio/
+
 ### Outline 
 
 ##### High-Level Summary 
@@ -28,6 +30,13 @@ a timeline of the production,  the business workflow, and the consumption of cof
  	* by types
 
 6. Future of coffee - Robotics
+
+##### Sketches
+
+<img src="/portfolio/assets/CoffeeMap_1.jpeg">
+
+<img src="/portfolio/assets/CoffeeMap_2.jpeg">
+
 
 ### Data 
 The datasets I would use for this project are available on the international coffee organization. 
