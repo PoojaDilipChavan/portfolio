@@ -11,8 +11,8 @@ a timeline of the production,  the business workflow, and the consumption of cof
 1. Quote about coffee - 'Good Ideas start with coffee'
  
 2. Coffee Statistics 
-  * How many people drink it?
-  * How much money did we spend on coffee?
+  	* How many people drink it?
+  	* How much money did we spend on coffee?
 
 3. Coffee bean to cup process cycle - Timeline map 
 	* Roasting
@@ -20,12 +20,12 @@ a timeline of the production,  the business workflow, and the consumption of cof
 	* Brewing 
 
 4. Coffee Production 
-  * Which Countries
-  * How production over time has increased 
+  	* Which countries produce the coffee?
+  	* How production over time has increased ?
 
 5. Coffee Consumption
- * Country
- * types
+ 	* by Country
+ 	* by types
 
 6. Future of coffee - Robotics
 
