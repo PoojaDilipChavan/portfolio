@@ -5,7 +5,7 @@
 ### Outline 
 
 ##### High-Level Summary 
-####### Crushed, brewed, Poured - The story of the bean \
+###### Crushed, brewed, Poured - The story of the bean \
 I would like to talk about the journey of the coffee bean in this project. It will include coffee production in different nations, 
 a timeline of the production,  the business workflow, and the consumption of coffee.
 
@@ -40,9 +40,9 @@ a timeline of the production,  the business workflow, and the consumption of cof
 
 ### Data 
 The datasets I would use for this project are available on the international coffee organization. 
-For Coffee Production and Consumption data by country, I will use data from [Link] (https://www.ico.org/new_historical.asp). This will be presented in different chart types like maps and chartshart.
+For Coffee Production and Consumption data by country, I will use data from [Link](https://www.ico.org/new_historical.asp). This will be presented in different chart types like maps and chartshart.
 I will use a line chart from this data to show the Coffee Prices over period.
-[Link] (https://www.ico.org/coffee_prices.asp)
+[Link](https://www.ico.org/coffee_prices.asp)
 
 
 ### Method and Medium 
