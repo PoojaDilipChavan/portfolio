@@ -5,9 +5,9 @@
 ### Outline 
 
 ##### High-Level Summary 
-###### Crushed, brewed, Poured - The story of the bean
-I would like to talk about the journey of the coffee bean in this project. It will include coffee production in different nations, 
-a timeline of the production,  the business workflow, and the consumption of coffee.
+###### Coffee : a filtered Perception 
+
+I would like to talk about how coffee growing is not a profitable business for the farmers. I will be focusing on different reasons for it like producing countries and different middleman in supplychain. In the end, I will introudce some calls to action on industry and personal level.
 
 ##### Project Structure 
 
@@ -26,12 +26,11 @@ Visulization about coffee earnings for growers
 
 ###### Resolution
 
-6. Resolution 1 - Fair Trade Prices , encourage all organizations to adapt it
+6. Resolution 1 - Fair Trade Prices , encourage all organizations to adapt it - McDonald's and Dunkin Donuts
 
-7. Resolution 2 - Encourge coffee business which pay fair price to farmers -
+7. Resolution 2 - Encourge coffee business which pay fair price to farmers - Procter & Gamble-U.S. brand Folgers
 
-8. Personal level - donate to farmers through apps
-
+8. Personal level - buy coffee from brands that give back to farmers - Humblemaker Coffee Co. , Torke coffee 
 
 ##### Sketches
 
