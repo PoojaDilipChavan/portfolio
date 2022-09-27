@@ -10,26 +10,28 @@ I would like to talk about the journey of the coffee bean in this project. It wi
 a timeline of the production,  the business workflow, and the consumption of coffee.
 
 ##### Project Structure 
+
+###### Setup 
 1. Quote about coffee - 'Good Ideas start with coffee'
- 
-2. Coffee Statistics 
-  	* How many people drink it?
-  	* How much money did we spend on coffee?
+2. Coffee Statistics - How many people drink it? How much money did we spend on coffee?
 
-3. Coffee bean to cup process cycle - Timeline map 
-	* Roasting
-	* Griding
-	* Brewing 
+###### Conflict
+3. Assume coffee farmers are wealthy, Throw in statistics for farmer earnings 
+Hayder Hassan, 53, produces two and a half kilos of coffee and 15 bundles of chat from his dark ebony soil. But since the drop in price he now earns little more than 35 cents a day from his small plot of land and is considering removing coffee altogether. - NY Times 
+Visulization about coffee earnings for growers 
 
-4. Coffee Production 
-  	* Which countries produce the coffee?
-  	* How production over time has increased ?
+3. Reason 1 - Coffee bean to cup process cycle - 2 to 6 middleman
 
-5. Coffee Consumption
- 	* by Country
- 	* by types
+4. Reason 2 Geographical Regions - Coffee Production - Which countries produce the coffee?
 
-6. Future of coffee - Robotics
+###### Resolution
+
+5. Resolution 1 - Fair Trade Prices , encourage all organizations to adapt it
+
+6. Resolution 2 - Encourge coffee business which pay fair price to farmers -
+
+7. Personal level - donate to farmers through apps
+
 
 ##### Sketches
 
@@ -40,9 +42,9 @@ a timeline of the production,  the business workflow, and the consumption of cof
 
 ### Data 
 The datasets I would use for this project are available on the international coffee organization. 
-For Coffee Production and Consumption data by country, I will use data from [Link](https://www.ico.org/new_historical.asp). This will be presented in different chart types like maps and chartshart.
+For Coffee Production by country, I will use data from [ICO Organization Link](https://www.ico.org/new_historical.asp). This will be presented in different chart types like maps and chartshart.
 I will use a line chart from this data to show the Coffee Prices over period.
-[Link](https://www.ico.org/coffee_prices.asp)
+[ICO Coffee prices Link](https://www.ico.org/coffee_prices.asp)
 
 
 ### Method and Medium 
