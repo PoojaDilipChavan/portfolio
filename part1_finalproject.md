@@ -20,17 +20,17 @@ a timeline of the production,  the business workflow, and the consumption of cof
 Hayder Hassan, 53, produces two and a half kilos of coffee and 15 bundles of chat from his dark ebony soil. But since the drop in price he now earns little more than 35 cents a day from his small plot of land and is considering removing coffee altogether. - NY Times 
 Visulization about coffee earnings for growers 
 
-3. Reason 1 - Coffee bean to cup process cycle - 2 to 6 middleman
+4. Reason 1 - Coffee bean to cup process cycle - 2 to 6 middleman
 
-4. Reason 2 Geographical Regions - Coffee Production - Which countries produce the coffee?
+5. Reason 2 Geographical Regions - Coffee Production - Which countries produce the coffee?
 
 ###### Resolution
 
-5. Resolution 1 - Fair Trade Prices , encourage all organizations to adapt it
+6. Resolution 1 - Fair Trade Prices , encourage all organizations to adapt it
 
-6. Resolution 2 - Encourge coffee business which pay fair price to farmers -
+7. Resolution 2 - Encourge coffee business which pay fair price to farmers -
 
-7. Personal level - donate to farmers through apps
+8. Personal level - donate to farmers through apps
 
 
 ##### Sketches
