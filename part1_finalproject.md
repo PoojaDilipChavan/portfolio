@@ -34,11 +34,11 @@ Visulization about coffee earnings for growers
 
 ##### Sketches
 
-<img src="/portfolio/assets/coffee_1 (1).jpeg" width="400"> 
+<img src="/portfolio/assets/coffee_1 (1).jpeg" width="500"> 
 
-<img src="/portfolio/assets/coffee_1 (2).jpeg" width="400">
+<img src="/portfolio/assets/coffee_1 (2).jpeg" width="500">
 
-<img src="/portfolio/assets/coffee_1 (3).jpeg" width="400">
+<img src="/portfolio/assets/coffee_1 (3).jpeg" width="500">
 
 
 ### Data 
