@@ -34,9 +34,11 @@ Visulization about coffee earnings for growers
 
 ##### Sketches
 
-<img src="/portfolio/assets/CoffeeMap_1.jpeg">
+<img src="/portfolio/assets/coffee_1 (1).jpeg"> 
 
-<img src="/portfolio/assets/CoffeeMap_2.jpeg">
+<img src="/portfolio/assets/coffee_1 (2).jpeg">
+
+<img src="/portfolio/assets/coffee_1 (3).jpeg">
 
 
 ### Data 
