@@ -1,4 +1,8 @@
-### WireFrame
+## Part 2 - Final project wireframes and user research
+
+Go back to portfolio using - 
+
+### WireFrameing
 
 
 
@@ -21,16 +25,16 @@ The inputs from the test will be used to improve the story further. This test sh
    <thead>
       <tr>
          <th> Questions </th>
-         <th> User 1 </th>
-         <th> User 2 </th>
+         <th> User 1 - 23 year old Female - data Scientist  </th>
+         <th> User 2 - 25 year old male - Consultant </th>
         <th>  User 3 </th>
       </tr>
    </thead>
    <tbody>
       <tr>
          <td>1. What do you think this presentation is for? </td>
-         <td></td>
-         <td></td>
+         <td>To highlight the importance of choosing the right brands and how that can affect the overall economic structure for a particular product e.g., Coffee. How important it is to be an aware consumer and how awareness about this is beneficial for farmers (who are putting in hard work instead of middlemen)</td>
+         <td>Disproportionate distribution of revenue generated in coffee business</td>
          <td></td>
       </tr>
       <tr>
