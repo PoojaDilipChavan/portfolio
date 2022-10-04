@@ -39,32 +39,32 @@ The inputs from the test will be used to improve the story further. This test sh
       </tr>
       <tr>
          <td>2. Who do you think is the audience for this?</td>
-         <td></td>
-         <td></td>
+         <td>Any mindless buyer who can be converted into an aware consumer is the audience for this.</td>
+         <td>Everyday customers or anyone who drinks coffee</td>
          <td></td>
       </tr>
       <tr>
          <td>3. How do you think data points/charts were presented here?</td>
-         <td></td>
-         <td></td>
+         <td>A wide variety of visualization types and also presented in logical flow to better understand how data is contributing to the actual cause. By using global statistics, the problem is presented in a holistic view instead of being confined to a particular geographical location.</td>
+         <td>Couldn't find a lot of them, a chart of coffee production vs consumption can be something that can be introduced</td>
          <td></td>
       </tr>
       <tr>
          <td>4. Are there any parts you found confusing?</td>
-         <td></td>
-         <td></td>
+         <td>Where the money spent on coffee is going if not to farmers? Because as a user it’s confusing to me to see such a widely popular product being paid for exorbitantly on a global level is not contributing to the maker of the product.</td>
+         <td> No, the presentation captured the attention by subsequent, and distinct yet corollary topics</td>
          <td></td>
       </tr>
       <tr>
          <td>5. If given a chance, what parts would you change about this presentation?</td>
-         <td></td>
-         <td></td>
+         <td>I would elaborate more on how money is extracted by the middlemen and how exactly is the cash flow cycle going from production to retail sales.</td>
+         <td>The presentation flow is great. The only minor that I can think of introducing a better transition between Empty cup for growers and coffee journey</td>
          <td></td>
       </tr>
       <tr>
          <td>6. What other questions do you have about this presentation?</td>
-         <td></td>
-         <td></td>
+         <td>Probably a comparative study between sustainable and non-sustainable products. Also how much difference in $ or % would be made by one individual user </td>
+         <td>How likely is it that I can find sustainable Coffee brands in my area?Is shifting to packaged coffee an option?</td>
          <td></td>
       </tr>
       
