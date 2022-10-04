@@ -28,18 +28,42 @@ The inputs from the test will be used to improve the story further. This test sh
    </thead>
    <tbody>
       <tr>
-         <td>1.	What do you think this presentation is for? </td>
-         <td>2. Who do you think is the audience for this?</td>
-         <td>3. How do you think data points/charts were presented here?</td>
-         <td>4. Are there any parts you found confusing?</td>
-         <td>5. If given a chance, what parts would you change about this presentation?</td>
-         <td>6. What other questions do you have about this presentation?</td>
+         <td>1. What do you think this presentation is for? </td>
+         <td></td>
+         <td></td>
+         <td></td>
       </tr>
       <tr>
-         <td>data11</td>
-         <td>data12</td>
-         <td>data13</td>
+         <td>2. Who do you think is the audience for this?</td>
+         <td></td>
+         <td></td>
+         <td></td>
       </tr>
+      <tr>
+         <td>3. How do you think data points/charts were presented here?</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>4. Are there any parts you found confusing?</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>5. If given a chance, what parts would you change about this presentation?</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>6. What other questions do you have about this presentation?</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      
    </tbody>
 </table>
 
