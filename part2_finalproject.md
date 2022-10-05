@@ -4,7 +4,7 @@ Go back to portfolio using -
 
 ### WireFraming
 
-I used shorthand for outlining and putting in the sections of my final presentation.
+I used shorthand for outlining and putting in the sections of my final presentation. 
 [shorthand link ](https://carnegiemellon.shorthandstories.com/coffee-a-filtered-perception/index.html)
 
 ### User Research
@@ -16,9 +16,10 @@ I followed below guidelines to take the user interveiwes.
 2. The users did not know about my presentation topic beforehand and I did not give any insights about the topic. I allowed them to go through shorthand on their own.
 3. I asked open ended questions like what/why in between and did not direct users in any particular context.
 
+
 ##### User Testing 
 
-Introduction -
+Introduction \
 Hello, I am Pooja, a student in the telling stories with data course.  My goal is to get feedback on this presentation I am designing. 
 The inputs from the test will be used to improve the story further. This test should approximately take 10 minutes of your time.
 
@@ -75,3 +76,6 @@ The inputs from the test will be used to improve the story further. This test sh
 
 
 ### Takeaways from the user Testing
+
+For part 3 of the project, I will priotizing the feedback and implement it.
+
