@@ -17,13 +17,12 @@ Following is the summary of improvment areas and how I resolved them in the fina
    <thead>
       <tr>
          <th> Elaborate more on how money is extracted by the middlemen  </th>
-           <td>This feedback was incorporated by implementing a donut chart visualization with a cost breakdown on each step of the supply chain. I found prices for each step of the coffee supply chain per coffee cup and highlighted the growing/farming step in the visualization. </td>
-       
+         <td>This feedback was incorporated by implementing a donut chart visualization with a cost breakdown on each step of the supply chain. I found prices for each step of the coffee supply chain per coffee cup and highlighted the growing/farming step in the visualization. </td>
       </tr>
    </thead>
    <tbody>
       <tr>
-          <th> How likely is it that I can find sustainable Coffee brands in my area? </th>
+         <th> How likely is it that I can find sustainable Coffee brands in my area? </th>
          <td>I highly appreciate this feedback as even I was looking for this solution as a conscious coffee buyer. I presented easily available and famous sustainable coffee brands as examples that are shipped through Amazon USA. I also provided a fairtrade website link for more coffee options.</td>
       </tr>  
       <tr>
@@ -31,7 +30,7 @@ Following is the summary of improvment areas and how I resolved them in the fina
       <td>Through this feedback in part 2, I realized people were getting confused due to the coffee journey steps as another topic in the story. Thus, I added a new title clearly stating why coffee farmers are poor and added 2-6 middlemen in the supply chain as the reason farmers are not earning more. </td>
       </tr>  
       <tr>  
-         <th>  Create a persona ( Comment by TA) </th>
+         <th>  Create a persona(Comment by TA) </th>
          <td>To set up the story and emphasis the lower earnings by the farmer, I created a persona called lily who works as a coffee farmer and gave details about how much money she is making through this business.</td>
       </tr>  
    </tbody>
