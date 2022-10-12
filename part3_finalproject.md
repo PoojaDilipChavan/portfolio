@@ -66,16 +66,16 @@ Please find the final presentation here -
 #### References 
 
 1. “11 Coffee Drinking Statistics You Should Know & What It Means for You.” Joe's Garage Coffee, August 29, 2022. https://joesgaragecoffee.com/blog/coffee-drinking-statistics/.
-2.“The Farmer Who Grew Your Coffee Is Losing Money on Every Cup.” Root Capital, October 28, 2021. https://rootcapital.org/the-f3.armer-who-grew-your-coffee-is-losing-money-on-every-cup/.
-3.“Historical Data on the Global Coffee Trade.” International Coffee Organization - Historical Data on the Global Coffee Trade. Accessed October 8, 2022. https://www.ico.org/new_historical.asp.
-4.Wallach, Omri. “From Bean to Brew: The Coffee Supply Chain.” Visual Capitalist, August 11, 2020. https://www.visualcapitalist.com/from-bean-to-brew-the-coffee-supply-chain/.
-5.“Testimonials of Fair Trade Producers.” fairtrade, January 23, 2019. https://fairtrade-advocacy.org/testimonials-of-fair-trade-producers/.
-6.https://www.fairtradeamerica.org/news-insights/we-love-coffee-are-we-willing-to-pay-the-price/
-7.“Rich Farmer, Poor Farmer.” caravela, May 20, 2021. https://caravela.coffee/project/rich-farmer-poor-farmer/.
-8.“How Fairtrade Works.” Fairtrade America, November 13, 2020. https://www.fairtradeamerica.org/why-fairtrade/the-fairtrade-difference/for-shoppers/how-fairtrade-works/#:~:text=How%20does%20Fairtrade%20work%3F,in%20countries%20like%20the%20US.
+2. “The Farmer Who Grew Your Coffee Is Losing Money on Every Cup.” Root Capital, October 28, 2021. https://rootcapital.org/the-f3.armer-who-grew-your-coffee-is-losing-money-on-every-cup/.
+3. “Historical Data on the Global Coffee Trade.” International Coffee Organization - Historical Data on the Global Coffee Trade. Accessed October 8, 2022. https://www.ico.org/new_historical.asp.
+4. Wallach, Omri. “From Bean to Brew: The Coffee Supply Chain.” Visual Capitalist, August 11, 2020. https://www.visualcapitalist.com/from-bean-to-brew-the-coffee-supply-chain/.
+5. “Testimonials of Fair Trade Producers.” fairtrade, January 23, 2019. https://fairtrade-advocacy.org/testimonials-of-fair-trade-producers/.
+6. Stritzinger, Kate. “We Love Coffee. Are We Willing to Pay the Price?” Fairtrade America, August 28, 2020. https://www.fairtradeamerica.org/news-insights/we-love-coffee-are-we-willing-to-pay-the-price/.
+7. “Rich Farmer, Poor Farmer.” caravela, May 20, 2021. https://caravela.coffee/project/rich-farmer-poor-farmer/.
+8. “How Fairtrade Works.” Fairtrade America, November 13, 2020. https://www.fairtradeamerica.org/why-fairtrade/the-fairtrade-difference/for-shoppers/how-fairtrade-works/#:~:text=How%20does%20Fairtrade%20work%3F,in%20countries%20like%20the%20US.
 9. Delany, Ryan. “Why Coffee Farmers Are Poor.” CoffeeTradingAcademy. CoffeeTradingAcademy, January 15, 2022. https://www.coffeetradingacademy.com/post/why-coffee-farmers-are-poor.
 
 Background Images are gathered from -
-1.Unsplash. “Beautiful Free Images &amp; Pictures.” Unsplash. Accessed October 12, 2022. https://unsplash.com/. 
-2.“Pexels.” Accessed October 12, 2022. https://www.pexels.com/. 
+1. Unsplash. “Beautiful Free Images &amp; Pictures.” Unsplash. Accessed October 12, 2022. https://unsplash.com/. 
+2. “Pexels.” Accessed October 12, 2022. https://www.pexels.com/. 
 The individual background images are ciated in the shorthand with credit to photographer and website.
