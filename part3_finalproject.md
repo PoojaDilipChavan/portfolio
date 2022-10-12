@@ -54,5 +54,5 @@ I gave a quick tour of my shorthand to my interview panel and gathered their fin
 #### Final presentation
 
 Please find the final presentation here -
-[shorthand link] (https://carnegiemellon.shorthandstories.com/coffee-a-filtered-perception/index.html)
+[shorthand link](https://carnegiemellon.shorthandstories.com/coffee-a-filtered-perception/index.html)
 
