@@ -51,3 +51,8 @@ In part 2 of the project, I had some placeholders/images for visualizations. For
 5.	Reviewed it with peers - 
 I gave a quick tour of my shorthand to my interview panel and gathered their final feedback. It allowed me to tweak some UI features like changing the opacity of the background images. 
 
+#### Final presentation
+
+Please find the final presentation here -
+[shorthand link] (https://carnegiemellon.shorthandstories.com/coffee-a-filtered-perception/index.html)
+
