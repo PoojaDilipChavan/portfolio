@@ -53,6 +53,12 @@ I gave a quick tour of my shorthand to my interview panel and gathered their fin
 
 #### Final presentation
 
+I used following resources/tools to create the final data story.
+1. Unsplash - for background images
+2. pexels.com - for background images
+3. flourish.studio - for data charts
+4. shorthand - for data story
+
 Please find the final presentation here -
 [shorthand link](https://carnegiemellon.shorthandstories.com/coffee-a-filtered-perception/index.html)
 
