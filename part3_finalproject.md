@@ -2,6 +2,10 @@
 
 go back to portfolio using below link - [portfolio](https://poojadilipchavan.github.io/portfolio/)
 
+### Data Story - Coffee a filtered Perception
+Find data story giving peek inside farmer's earnings in the coffee business here
+[Data Story](https://carnegiemellon.shorthandstories.com/coffee-a-filtered-perception/index.html)
+
 ### Part 1
 Please Visit following link -
 [part1](https://poojadilipchavan.github.io/portfolio/part1_finalproject)
