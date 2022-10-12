@@ -28,7 +28,7 @@ In future , I see myself working in data analysis working backwords with custome
 
 Please Visit following link -
 
-[Goverment Debt Visulizations] (https://poojadilipchavan.github.io/portfolio/governmentdebt)
+[Goverment Debt Visulizations](https://poojadilipchavan.github.io/portfolio/governmentdebt)
 
 #### Assignment 3 & 4 - Critque by Design
 
@@ -37,6 +37,7 @@ Please Visit following link -
 
 
 #### Final Project 
+Data Story showing farmer earnings in the coffee business 
 
 Please Visit following link -
 [part1](https://poojadilipchavan.github.io/portfolio/part1_finalproject)
