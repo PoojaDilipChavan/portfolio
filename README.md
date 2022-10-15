@@ -7,7 +7,8 @@ Welcome to Pooja Chavan's public page !
 
 I am a graduate student at Carnegie Mellon University pursuing Master of Information System Management with coursework focused on data analytics. 
 
-<img src="/portfolio/assets/PoojaChavan_Photo.jpeg">
+<img src="/portfolio/assets/PoojaChavan_Photo.jpeg"  alt="drawing" width="200">
+
 
 My work in data and analytics team for oil & gas industry has allowed me to witness how shifting gears to digital has drastically changed the way we handle business. Technology can bring power to any job, from managing logistics efficiently to raising remedy tickets to the support team. 
 
