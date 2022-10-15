@@ -42,14 +42,14 @@ To view the assignment, please Visit following link -
 #### Final Project 
 The final project involved combining all the skills I learned in this class. The deliverables for this project were divided into 3 sections and the goal was to present a data story involving appropriate visualizations.
 
-In part 1, I chose the topic and decided outline for my presentation. It also involved sketching the wireframes, finding the data source, and deciding the medium for the final presentation. I chose the data Story of showing farmer earnings in the coffee business named coffee: A filtered perception.
-To visit part 1, please visit the following link -
+In part 1, I chose the topic and decided outline for my presentation. It also involved sketching the wireframes, finding the data source, and deciding the medium for the final presentation. I chose the data Story of showing farmer earnings in the coffee business named coffee: A filtered perception.\
+To visit part 1, please visit the following link -\
 [part1](https://poojadilipchavan.github.io/portfolio/part1_finalproject)
 
-The part 2 invloed , wirframing the solution and user reasearch. I used shorthand for wireframing and conducted user interviews to further enhance my product.
-To visit part 2, please visit the following link -
+The part 2 invloed , wirframing the solution and user reasearch. I used shorthand for wireframing and conducted user interviews to further enhance my product.\
+To visit part 2, please visit the following link -\
 [part2](https://poojadilipchavan.github.io/portfolio/part2_finalproject)
 
-Part 3 involved, using and prioritizing user feedback from interviews in part 2. I implemented some of the changes suggested by these users and also finalized the content of my story. I presented this shorthand story to my professor and fellow students.
-to visit part 3, please visit the following link -
+Part 3 involved, using and prioritizing user feedback from interviews in part 2. I implemented some of the changes suggested by these users and also finalized the content of my story. I presented this shorthand story to my professor and fellow students.\
+To visit part 3, please visit the following link -\
 [part3](https://poojadilipchavan.github.io/portfolio/part3_finalproject)
