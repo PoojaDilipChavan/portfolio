@@ -7,6 +7,8 @@ Welcome to Pooja Chavan's public page !
 
 I am a graduate student at Carnegie Mellon University pursuing Master of Information System Management with coursework focused on data analytics. 
 
+<img src="/portfolio/assets/PoojaChavan_Photo.jpeg">
+
 My work in data and analytics team for oil & gas industry has allowed me to witness how shifting gears to digital has drastically changed the way we handle business. Technology can bring power to any job, from managing logistics efficiently to raising remedy tickets to the support team. 
 
 In my previous work as a Business Intelligence Developer at Schlumberger , I have achieved comprehensive expertise in data preparation, data modelling and visualization by using Microsoft Azure cloud stack – data factory, analysis Services and Power BI. My recent internship at Amazon Web Services as a data engineer gave me an opprtunity to build scalable, secure ETL pipelines using airflow for analytics. I also worked on natural langauge processing problems to automate business processes.
